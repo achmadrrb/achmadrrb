@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achmadrrb
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Cloud Computing and Data Science
+- 🌱 I’m currently learning Cloud Computing, Data Science, and Web Development
 - 📫 How to reach me https://linktr.ee/achmadrrb
 
 <!---
