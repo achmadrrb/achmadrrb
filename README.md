@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achmadrrb
+- 👋 Hi, I’m Achmad Rifki Raihansyah Bagja
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Cloud Computing, Data Science, and Web Development
 - 📫 How to reach me https://linktr.ee/achmadrrb
