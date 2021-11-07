@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achmad Rifki Raihansyah Bagja
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Cloud Computing, Data Science, and Web Development
+- 🌱 I’m currently learning Data Science on Datacamp
 - 📫 How to reach me https://linktr.ee/achmadrrb
 
 <!---
